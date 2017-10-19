@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit+Rxjava</string>
+    <string name="str_download">下载</string>
+</resources>
